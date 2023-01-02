@@ -1,6 +1,6 @@
 {
   "name": "kivibot-plugin-keyword",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "QQ 机器人框架 KiviBot 的简单关键词插件",
   "main": "lib/index.js",
   "repository": "KiviBotLab/kivibot-plugin-keyword",

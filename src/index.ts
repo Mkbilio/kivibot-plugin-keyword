@@ -4,10 +4,7 @@ const { version } = require('../package.json')
 const plugin = new KiviPlugin('关键词', version)
 
 const config = {
-  words: [
-    ['hello', 'world', 0],
-    ['测试', '你好，我是 KiviBot', 0]
-  ]
+  words: []
 } as const
 
 plugin.onMounted(() => {
